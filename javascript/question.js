@@ -52,6 +52,7 @@ question1.addEventListener("click", func1);
 question2.addEventListener("click", func2);
 
 function func1() {
+  document.getElementById("probar").value = num;
   num++;
   progress.textContent = `${num}/12`;
   score[0]++;
@@ -65,6 +66,7 @@ function func1() {
 }
 
 function func2() {
+  document.getElementById("probar").value = num;
   num++;
   progress.textContent = `${num}/12`;
   score[1]++;

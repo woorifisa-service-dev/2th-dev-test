@@ -21,7 +21,8 @@ html {
   overflow: hidden;
 }
 .contents {
-  margin-top: 75px;
+  margin-top: 55px;
+  margin-bottom: 10px;
 }
 
 .container {
@@ -39,15 +40,18 @@ html {
 }
 
 .topBar {
-  padding-top: 2vw;
+  padding-top: 1vw;
 }
-
+#probar {
+  width: 100%;
+  margin-bottom: 10px;
+}
 .progress {
   font-size: 40px;
   line-height: 0.93;
   text-align: center;
   color: black;
-  margin-bottom: 28px;
+  margin-bottom: 10px;
 }
 
 .main {
@@ -65,10 +69,8 @@ a {
 
 .qcontent {
   width: auto;
-  /* height: 100vh; */
   font-weight: 500;
   padding: 34px 18px 34px 18px;
-  /* border-radius: 6px; */
   background-color: rgb(62, 62, 70);
   font-size: 40px;
   line-height: 1.44;
@@ -91,4 +93,20 @@ a {
   background-color: aliceblue;
   color: #6098ff;
   border-radius: 20px;
+}
+
+#probar {
+  appearance: none;
+}
+#probar::-webkit-progress-bar {
+  background: #f0f0f0;
+  border-radius: 10px;
+  box-shadow: inset 3px 3px 10px #ccc;
+}
+
+#probar::-webkit-progress-value {
+  border-radius: 10px;
+  background: #1d976c;
+  background: -webkit-linear-gradient(to right, #93f9b9, #ff72dc);
+  background: linear-gradient(to right, #d3e7db, #fc8196b6);
 }
