@@ -6,13 +6,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css" integrity="sha384-QYIZto+st3yW+o8+5OHfT6S482Zsvz2WfOzpFSXMF9zqeLcFV0/wlZpMtyFcZALm" crossorigin="anonymous">
+    <script defer src="/libraries/p5.min.js"></script>
+    <script defer src="/libraries/p5.sound.min.js"></script>
+    <script defer src="/libraries/sketch.js"></script>
+    
     <style>
-      body {margin-left:30;margin-right:200;margin-top:30;margin-bottom:30}
+      canvas {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: -1; /* 캔버스를 뒤로 위치시킴 */
+      }
       </style>
+
     <title>Document</title>
+
   </head>
   <body>
-   
+  
     <div class="main">
       <h1 class="title">프론트엔드 VS 백엔드</h1>
       <img src="https://cdn-icons-png.flaticon.com/512/2482/2482264.png" width="200px"/ class="icon">
@@ -23,3 +34,4 @@
     </div>
   </body>
 </html>
+
