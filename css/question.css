@@ -8,9 +8,8 @@
 
 .wrapper {
   width: 100%;
-  /* height: 100%; */
+
   margin: auto;
-  box-sizing: border-box;
 }
 
 body,
@@ -43,8 +42,8 @@ html {
   padding-top: 1vw;
 }
 #probar {
-  width: 100%;
-  margin-bottom: 10px;
+  width: 70%;
+  margin-bottom: 40px;
 }
 .progress {
   font-size: 40px;
@@ -80,7 +79,7 @@ a {
   color: rgb(255, 255, 255);
 }
 .or {
-  font-size: 28px;
+  font-size: 40px;
   line-height: 1.43;
   text-align: center;
   color: black;
