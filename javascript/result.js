@@ -27,7 +27,7 @@ const fullstackImageUrl =
 
 const printResult = (result) => {
   if (result === "프론트") {
-    resultTitle.textContent = "프론트엔드 개발자!";
+    resultTitle.textContent = "당신은 프론트엔드 개발자 입니다.";
     resultImg.innerHTML = `<img src="${frontendImageUrl}" width="330rem">`;
     resultEx.innerHTML = frontendText;
     return resultTitle.value;
