@@ -27,7 +27,7 @@ const arr = [
     "E",
     "화려한 영상미를 주로 보는 편이다",
     "날도 좋은데 여행을 간다",
-    "개념공부를 완벽히 하고 투입되는 것을 원한다",
+    "일단 투입되고 개발부터 하는 것을 원한다",
     "공부 그게 뭔데, 바로 놀러간다",
     "SIMPLE IS THE BEST",
     "사랑을 쟁취한다",
@@ -40,7 +40,7 @@ const arr = [
     "I",
     "영상의 스토리를 보는 편이다",
     "집에서 넷플릭스, 게임 ,영화까지 즐긴다",
-    "일단 투입되고 개발부터 하는 것을 원한다",
+    "개념공부를 완벽히 하고 투입되는 것을 원한다",
     "그래도 계획은 지켜야지.. 다음에 놀자고한다",
     "조금은 화려한게 좋다",
     "친구에게 양보한다",
@@ -79,9 +79,9 @@ function func2() {
 }
 function linkResult() {
   let result = "풀스택";
-  if (score[0] <6) {
+  if (score[0] < 6) {
     result = "백엔드";
-  } else if (score[0] >6) {
+  } else if (score[0] > 6) {
     result = "프론트";
   }
   location.href = "result.html?result=" + result;
