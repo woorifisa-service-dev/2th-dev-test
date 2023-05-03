@@ -79,9 +79,9 @@ function func2() {
 }
 function linkResult() {
   let result = "풀스택";
-  if (score[0] <= 4) {
+  if (score[0] <6) {
     result = "백엔드";
-  } else if (score[0] > 7) {
+  } else if (score[0] >6) {
     result = "프론트";
   }
   location.href = "result.html?result=" + result;
