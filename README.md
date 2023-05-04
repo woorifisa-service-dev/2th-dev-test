@@ -1,9 +1,9 @@
 <div align ="center">
-https://2th-fisa-pj.github.io/dev-test/index.html </br>
+
 # 👨‍💻 당신은 어떤 개발자인가요 ? 👩‍💻
 
-MBTI 테스트를 변형해 개발자 성향테스트를 하는 프로젝트 입니다. 
-
+MBTI 테스트를 변형해 개발자 성향테스트를 하는 프로젝트 입니다. </br>
+https://2th-fisa-pj.github.io/dev-test/index.html </br>
 
 # 팀원 소개
 
