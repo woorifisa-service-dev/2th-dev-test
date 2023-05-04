@@ -1,11 +1,11 @@
 <div align ="center">
 
-## 👨‍💻 당신은 어떤 개발자인가요 ? 👩‍💻
+# 👨‍💻 당신은 어떤 개발자인가요 ? 👩‍💻
 
 MBTI 테스트를 변형해 개발자 성향테스트를 하는 프로젝트 입니다. 
 
 
-## 팀원 소개
+# 팀원 소개
 
 김민수
 
@@ -19,12 +19,20 @@ MBTI 테스트를 변형해 개발자 성향테스트를 하는 프로젝트 입
 
 
 
-### 1. 에자일기법 적용 
-
+## 1. 애자일기법 적용 
 
 - 매일 오전 9:00부터 15분씩 회의 진행 후 역할 분담
-- DAY 1 : 초기시작화면, 질문화면, 결과창화면 레이아웃 작성, GitHub repository 생성 및 Commit 메세지 규칙 설정
-- DAY 2 : 시작화면의 마우스커서이벤트, 질문클릭시 클릭이벤트와 점수계산 및 결과값산출 JS 개발 , GitHub branch 생성하여 작업효율 극대화
+💻 DAY 1 : 초기 시작화면, 질문 화면, 결과창 화면 레이아웃 작성, GitHub repository 생성 및 Commit 메세지 규칙 설정
+
+main | 버전별 브랜치
+-- | --
+dev | 개발용 브랜치
+개발자별 브랜치 | 개발자별 담당기능 브랜치
+
+<h3 style="box-sizing: border-box; margin-top: 24px; margin-bottom: 16px; font-size: 1.25em; font-weight: var(--base-text-weight-semibold, 600); line-height: 1.25; color: rgb(31, 35, 40); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, &quot;Noto Sans&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;">
+
+</br>
+💻 DAY 2 : 시작화면의 마우스 이벤트, 질문 클릭 시 클릭 이벤트와 점수계산 및 결과값 산출 JS 개발, GitHub branch 생성하여 작업 효율 극대화
 </br>
 
 ### 2. Prettier을 설치하여 코드정렬 기능 사용 
