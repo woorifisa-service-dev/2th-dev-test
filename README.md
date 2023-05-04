@@ -25,6 +25,10 @@ MBTI 테스트를 변형해 개발자 성향테스트를 하는 프로젝트 입
 ✔ 매일 오전 9:00부터 15분씩 회의 진행 후 역할 분담
 </br></br>
 💻 DAY 1 : 초기 시작화면, 질문 화면, 결과창 화면 레이아웃 작성, GitHub repository 생성 및 Commit 메세지 규칙 설정
+</br>
+<img width="622" alt="스크린샷 2023-05-04 12 28 47" src="https://user-images.githubusercontent.com/68263815/236106558-e9952830-003a-4312-a6ec-39b977b849dc.png">
+
+
 
 main | 버전별 브랜치
 -- | --
