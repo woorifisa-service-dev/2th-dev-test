@@ -60,7 +60,7 @@ function func1() {
   question1.textContent = arr[1][num - 2];
   question2.textContent = arr[2][num - 2];
   console.log("현재 num: " + num);
-  if (num == 13) {
+  if (num == 12) {
     linkResult();
   }
 }
@@ -73,7 +73,7 @@ function func2() {
   main.textContent = arr[0][num - 2];
   question1.textContent = arr[1][num - 2];
   question2.textContent = arr[2][num - 2];
-  if (num == 13) {
+  if (num == 12) {
     linkResult();
   }
 }
