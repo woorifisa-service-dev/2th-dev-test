@@ -1,6 +1,4 @@
 * {
-  background-color: lightpink;
-  max-height: 100%;
   overflow: hidden;
 }
 
@@ -14,9 +12,6 @@ body {
 
 .main {
   padding: 20px 20px;
-  /* border: 1px solid white;
-  border-radius: 20px;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
   text-align: center;
 }
 

@@ -45,13 +45,29 @@ body {
 }
 
 #result-share-container {
+  display: flex;
   margin: 30px;
 }
 
 #result-share {
+  flex-grow: 1;
   font-family: "TTWanjudaedunsancheB";
   padding: 1em 2em;
-  background-color: lightcoral;
+  background-color: lightgrey;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+  border-radius: 15px;
+  color: black;
+}
+
+#result-return {
+  flex-grow: 1;
+  font-family: "TTWanjudaedunsancheB";
+  padding: 1em 2em;
+  margin-left: 10px;
+  background-color: lightgrey;
   font-size: 20px;
   text-decoration: none;
   text-align: center;
