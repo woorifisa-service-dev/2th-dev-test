@@ -47,4 +47,7 @@
 
 ## 트러블 슈팅
 
+## 동작 예시
+![use_readme](https://user-images.githubusercontent.com/61442302/236079470-fd27dbd8-ae5e-4608-ad06-2e6c380f51c0.gif)
+
 ## 느낀점
