@@ -46,9 +46,9 @@ dev | 개발용 브랜치
 ### 3. 페어프로그래밍 적용 
 
 </br>
+
 # 동작 예시
 ![use_readme](https://user-images.githubusercontent.com/61442302/236079470-fd27dbd8-ae5e-4608-ad06-2e6c380f51c0.gif)
-
 
 ## 프로젝트 결과 화면
 
